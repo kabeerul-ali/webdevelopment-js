@@ -1,0 +1,14 @@
+body{
+    background-color: azure;
+    justify-content: center;
+    display:inline-flex;
+}
+.box{
+    justify-content: center;
+    text-align: center;
+    height: 10rem;
+    width: 10rem;
+    background-color: green;
+    color: red;
+    margin: 1rem;
+}

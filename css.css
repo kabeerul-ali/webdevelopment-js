@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+    justify-content: center;
+}
+#mylife{
+    display: inline;
+}
+#brother{
+    height: 14rem;
+    width: 20rem;
+    border: 1px;
+    background-color: brown;
+}
+#mother{
+    margin-left: 4rem;
+    height: 10rem;
+    width: 20rem;
+    border: 1px;
+    background-color: brown;
+}
+body{
+    text-align: center;
+}
+#heart{
+    background-color: blue;
+    color: black;
+}
+#heart{
+    cursor: pointer;
+}

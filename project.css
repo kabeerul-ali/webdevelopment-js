@@ -1,0 +1,45 @@
+body{
+    background-color:hsla(332, 74%, 49%, 0.686)
+}
+#input{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:2rem;
+    margin-top: 1rem;
+}
+h1{
+    text-align: center;
+    font-size: 2rem;
+    color:brown;
+}
+.choice{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 5rem;
+    text-align: center;
+    margin: 2rem;
+    cursor: pointer;
+    font-size: 2rem;
+    background-color:bisque;
+    color: green;
+    
+}
+.choice:hover{
+    border-color:green;
+    border-radius: 4.5rem;
+}
+#scoreboard{
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;    
+}
+#alert{
+    text-align: center;
+    font-size: 2rem;
+}
+#bb{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+}
